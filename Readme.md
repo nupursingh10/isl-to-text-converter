@@ -27,7 +27,13 @@ Run prediction:
 
 python predict.py
 
+## 📊 Model Performance
+
+- Training Accuracy: ~100%
+- Validation Accuracy: ~100%
+
 ## 👩‍💻 Author
 
 
 Nupur Singh
+
