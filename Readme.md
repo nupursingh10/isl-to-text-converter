@@ -138,7 +138,10 @@ isl-to-text-converter/
 
 ## 📷 Demo
 
-![Demo](images/demo1.png)
+## 📷 Demo
+
+![Demo](images/Screenshot%202026-02-28%20223026.png)
+![Demo](images/Screenshot%202026-02-28%20223120.png)
 
 ---
 
@@ -189,3 +192,4 @@ Interested in AI, Computer Vision & Web Development
 ---
 
 ⭐ If you found this helpful, consider giving the repo a star!
+
