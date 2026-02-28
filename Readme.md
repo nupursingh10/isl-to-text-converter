@@ -134,17 +134,6 @@ isl-to-text-converter/
 └── requirements.txt (recommended)
 ```
 
----
-
-## 📷 Demo
-
-## 📷 Demo
-
-![Demo](images/Screenshot%202026-02-28%20223026.png)
-![Demo](images/Screenshot%202026-02-28%20223120.png)
-
----
-
 ## 🚧 Future Improvements
 
 - MediaPipe hand detection  
@@ -192,4 +181,5 @@ Interested in AI, Computer Vision & Web Development
 ---
 
 ⭐ If you found this helpful, consider giving the repo a star!
+
 
