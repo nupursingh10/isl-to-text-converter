@@ -32,8 +32,13 @@ python predict.py
 - Training Accuracy: ~100%
 - Validation Accuracy: ~100%
 
+## DATASET
+
+Dataset sourced from Mendeley and manually preprocessed for training.
+
 ## 👩‍💻 Author
 
 
 Nupur Singh
+
 
