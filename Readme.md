@@ -1,5 +1,7 @@
 # 🔤 Indian Sign Language (ISL) to Text Converter
 
+🚀 A real-time Indian Sign Language (ISL) recognition system using CNN and OpenCV for gesture-to-text conversion.
+
 A real-time computer vision system that recognizes ISL hand gestures using Deep Learning.
 
 ## 🚀 Features
@@ -26,5 +28,6 @@ Run prediction:
 python predict.py
 
 ## 👩‍💻 Author
+
 
 Nupur Singh
